@@ -50,7 +50,7 @@ public class AdminController {
         UserDTO currentUserDTO;
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         if (authentication != null && authentication.isAuthenticated()) {
-            currentUserDTO = userService.convertToUserDTO((User)(authentication.getPrincipal())); //todo fix security
+            currentUserDTO = userService.convertToUserDTO((User)(authentication.getPrincipal()));
         } else {
             throw new SecurityException("You are not authenticated");
         }
