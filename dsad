@@ -1,0 +1,33 @@
+[33m6c6ceda[m[33m ([m[1;36mHEAD[m[33m)[m HEAD@{0}: commit: 2 am
+[33mdc837cf[m HEAD@{1}: commit: всё работает только причесать осталось
+[33m272a2ac[m HEAD@{2}: commit: edit works without roles
+[33m680c53c[m[33m ([m[1;32mnew_branch[m[33m)[m HEAD@{3}: checkout: moving from new_branch to 680c53c74ea686eb441701d7530e1619f90ed3b2
+[33m680c53c[m[33m ([m[1;32mnew_branch[m[33m)[m HEAD@{4}: checkout: moving from master to new_branch
+[33m54962d7[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{5}: reset: moving to 54962d767f2efc89b7561740c9cc64693642e970
+[33m54962d7[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{6}: checkout: moving from 1bfec9171b5d4557ab88dfa032a930383bea9f77 to master
+[33m1bfec91[m HEAD@{7}: checkout: moving from 54962d767f2efc89b7561740c9cc64693642e970 to 1bfec9171b5d4557ab88dfa032a930383bea9f77
+[33m54962d7[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{8}: checkout: moving from fb58f6c878c3364c79619deb9a886cbb026f6e5c to 5496
+[33mfb58f6c[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{9}: checkout: moving from 54962d767f2efc89b7561740c9cc64693642e970 to fb58f6c878c3364c79619deb9a886cbb026f6e5c
+[33m54962d7[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{10}: checkout: moving from master to 54962d767f2efc89b7561740c9cc64693642e970
+[33m54962d7[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{11}: checkout: moving from 680c53c74ea686eb441701d7530e1619f90ed3b2 to master
+[33m680c53c[m[33m ([m[1;32mnew_branch[m[33m)[m HEAD@{12}: commit: almost done
+[33mfb58f6c[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{13}: checkout: moving from master to fb58f6c878c3364c79619deb9a886cbb026f6e5c
+[33m54962d7[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{14}: checkout: moving from 51d688d58af1e4b0a2a4d68aeb73ab664283875b to master
+[33m51d688d[m HEAD@{15}: commit: im lost
+[33m14e8ffb[m HEAD@{16}: checkout: moving from master to 14e8ffbe658e362551f42f250f429834660ff284
+[33m54962d7[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{17}: commit: delete done.
+[33m14e8ffb[m HEAD@{18}: commit: delete done.
+[33mfb58f6c[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{19}: checkout: moving from fb58f6c878c3364c79619deb9a886cbb026f6e5c to master
+[33mfb58f6c[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{20}: merge refs/heads/master: Fast-forward
+[33md83e534[m HEAD@{21}: checkout: moving from 1bfec9171b5d4557ab88dfa032a930383bea9f77 to d83e534b9bc4389c5d5302077eaebfe0d4f02f1e
+[33m1bfec91[m HEAD@{22}: checkout: moving from d83e534b9bc4389c5d5302077eaebfe0d4f02f1e to 1bfec9171b5d4557ab88dfa032a930383bea9f77
+[33md83e534[m HEAD@{23}: checkout: moving from master to d83e534b9bc4389c5d5302077eaebfe0d4f02f1e
+[33mfb58f6c[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{24}: commit: delete button post instead of get
+[33md83e534[m HEAD@{25}: commit: kinda works for now. SB + NB + table but NW
+[33m1bfec91[m HEAD@{26}: rebase (abort): returning to refs/heads/master
+[33ma1813c0[m HEAD@{27}: rebase (start): checkout a1813c07b0ad8e62da521839f5f00b4b38f63f7b
+[33m1bfec91[m HEAD@{28}: commit: kinda works for now. SB + NB + table but NW
+[33ma9423bc[m HEAD@{29}: commit: kinda works for now. SB + NB + table but NW
+[33ma1813c0[m HEAD@{30}: commit: kinda works for now. SB + NB + table but NW
+[33mfa98d14[m HEAD@{31}: commit: kinda works for now. SB + NB
+[33md48b14b[m HEAD@{32}: commit (initial): Init commit.
